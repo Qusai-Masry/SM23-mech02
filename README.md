@@ -7,7 +7,8 @@ In this task, the neck joint is designed on two axes, so that the robot is able 
  The neck was designed to be able to move in two axes using the knuckle joint, and a modern shape was chosen for the robot so that it gives an impression of the future. Inventor was used in the 3D drawing.
 the robot was divided into two separate parts, the first part contains the body of the robot with the neck, and a servo tensioner was installed on it so that it gives horizontal rotation.
 
-https://github.com/Qusai-Masry/SM23-mech02/assets/108091352/559cb6cd-8baa-46c9-a195-966c93b74749
+[https://github.com/Qusai-Masry/SM23-mech02/assets/108091352/559cb6cd-8baa-46c9-a195-966c93b74749](https://github.com/Qusai-Masry/SM23-mech02/assets/108091352/7457064a-3a8f-43ba-b149-5efd2fe026fd
+)
 ![22](https://github.com/Qusai-Masry/SM23-mech02/assets/108091352/5d15ea08-2dcb-40ea-89eb-92181acad56e)
 ![33](https://github.com/Qusai-Masry/SM23-mech02/assets/108091352/c33ac9b2-9a03-4a8a-b260-fa43dbdf9cc0)
 ![44](https://github.com/Qusai-Masry/SM23-mech02/assets/108091352/1b6f39d1-10fc-4902-83c7-917bd6874817)
@@ -24,4 +25,5 @@ The assembly of the two parts has been done to make the robot completed.
 
 # References
 [KNUCLE JOINT](https://www.youtube.com/watch?v=uI22Yd0aEsg)
+
 [Robot head of 2 rotation](https://www.youtube.com/shorts/-q6lVE32CuY)
